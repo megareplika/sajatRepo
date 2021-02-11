@@ -1,2 +1,2 @@
 # sajatRepo
-Specifikációk létrehozása
+Specifikációk létrehozása, termeszetesen több sorban
