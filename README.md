@@ -1,1 +1,2 @@
 # sajatRepo
+Specifikációk létrehozása
